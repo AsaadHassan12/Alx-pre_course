@@ -1,2 +1,2 @@
 My first pro
-README update from github.com
+README updatting from github.com
